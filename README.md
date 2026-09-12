@@ -1,4 +1,4 @@
-# Predictive Maintenance — AI4I 2020 Dataset
+# Predictive Machine Maintenance Using Machine Learning and Deep Learning Models(A Study on the AI4I 2020 Predictive Maintenance Dataset)
 
 Machine failure prediction using seven machine learning and deep learning models, evaluated on the AI4I 2020 Predictive Maintenance Dataset, with SHAP-based explainability on the best-performing model.
 
